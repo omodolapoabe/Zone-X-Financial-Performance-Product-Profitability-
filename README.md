@@ -94,3 +94,9 @@ How to use: Download Zone_X_Financial_Analysis.xlsx, open it in desktop Excel (s
 Conclusions
 
 Zone X achieved only modest revenue growth in 2025 but much stronger profitability. Revenue rose about 2.23% while expenses fell about 13.46%, which pushed profit up about 20.49%. At product level, the business shifted from Asobe Shirt towards Zen T-Shirt: Zen grew in both revenue and profit and carries a considerably higher margin, while Asobe declined on both. Better cost management and a move towards the stronger product were the key drivers of the improvement.
+
+<img width="1743" height="814" alt="image" src="https://github.com/user-attachments/assets/ad2350da-b9c8-4dd7-8eca-5c7cc96fb165" />
+
+<img width="1423" height="808" alt="image" src="https://github.com/user-attachments/assets/99e4e098-0632-4f03-97d6-266a8f296c17" />
+
+
